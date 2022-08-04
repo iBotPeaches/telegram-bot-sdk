@@ -3,3 +3,4 @@ composer.lock
 vendor
 *.iml
 .idea
+.phpunit.result.cache
